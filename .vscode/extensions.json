@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "miguelsolorio.fluent-icons",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "rocketseat.theme-omni",
+    "csstools.postcss",
+    "prisma.prisma",
+    "miguelsolorio.symbols",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
